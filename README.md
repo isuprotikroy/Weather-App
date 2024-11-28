@@ -9,3 +9,5 @@ The API key for this project is a temporary key and hence might not work in the 
 Live Server -
 
 https://weather-app-uihs.onrender.com
+
+https://weather-app-sage-one-80.vercel.app/
